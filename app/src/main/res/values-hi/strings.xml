@@ -1,0 +1,9 @@
+<resources>
+    <string name="tap_text">नीचे दिए गए किसी भी भाषा का चयन करें :</string>
+    <string name="btn_en">अंग्रेज़ी</string>
+    <string name="btn_ru">रूसी</string>
+    <string name="btn_de">जर्मन</string>
+    <string name="btn_fr">फ्रेंच</string>
+    <string name="btn_hi">हिंदी</string>
+
+</resources>

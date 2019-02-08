@@ -1,0 +1,9 @@
+<resources>
+    <string name="tap_text">Выберите язык ниже :</string>
+    <string name="btn_en">Английский</string>
+    <string name="btn_ru">Русский</string>
+    <string name="btn_de">Немецкий</string>
+    <string name="btn_fr">Французский</string>
+    <string name="btn_hi">хинди</string>
+    
+</resources>

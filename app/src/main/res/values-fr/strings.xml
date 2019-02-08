@@ -1,0 +1,9 @@
+<resources>
+    <string name="tap_text">Sélectionnez une langue ci-dessous :</string>
+    <string name="btn_en">Anglais</string>
+    <string name="btn_ru">Russie</string>
+    <string name="btn_de">Allemand</string>
+    <string name="btn_fr">Français</string>
+    <string name="btn_hi">Hindi</string>
+
+</resources>

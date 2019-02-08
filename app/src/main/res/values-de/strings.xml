@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="tap_text">Wählen Sie eine beliebige Sprache im Handumdrehen:</string>
+    <string name="btn_en">Englisch</string>
+    <string name="btn_ru">Russisch</string>
+    <string name="btn_de">Deutsch</string>
+    <string name="btn_fr">Französisch</string>
+    <string name="btn_hi">Hindi</string>
+    
+</resources>
