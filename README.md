@@ -1,6 +1,8 @@
 # Building Multi-Language Supported App
 Android is one of the few popular mobile operating systems having millions of users over 190 countries and growing day by day. So when you are aiming your app to be globally successful, it is always a good idea to make the app localised by supporting different languages.
+<br>
 While localising, you should consider using appropriate text, audio, currency, numbers and graphics depending upon the region or country. 
+<br>
 Explained how to localise strings i.e [supporting multiple languages](http://developer.android.com/intl/es/training/basics/supporting-devices/languages.html). [Localizing with Resources](http://developer.android.com/guide/topics/resources/localization.html) explains about other things should be considered when localizing your app.
 
 ![Multilingual App String Values](https://i2.wp.com/www.androhub.com/wp-content/uploads/2015/12/string_values.jpg?resize=173%2C250) |
